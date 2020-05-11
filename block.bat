@@ -9,5 +9,7 @@ echo Hosts backed up!
 echo Writing into hosts
 for /f "tokens=*" %%i in (adserverList.txt) do (
 echo 127.0.0.1 %%i>>%windir%\system32\drivers\etc\hosts
-
 )
+pause
+msg * Hosts modified
+exit
