@@ -9,11 +9,6 @@
 [![build](https://img.shields.io/badge/build-passing-green?style=flat-square)](https://github.com/yunghog/w3bsite13locker)
 [![Donate](https://img.shields.io/badge/Paypal-Donate-blue?style=flat-square&logo=paypal)](https://paypal.me/samartha890?locale.x=en_GB)
 
-## Features
-- Blocking ads using domains
-- Working with hosts file
-- Lightweight batch script
-
 ## Usage
 - run `block.bat` script
 
@@ -22,5 +17,6 @@
 
 ## Contributing
   - 🍴 Fork this repo!
+  - Find more adserver domains and add it to the list
   - 👯 Clone this repo to your local machine using `https://github.com/yunghog/w3bsite13locker.git`
   - Pull requests
